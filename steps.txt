@@ -1,0 +1,4 @@
+1.understand the problem
+2.think the initialisation
+3.think the algorithm
+4.main logic and start working

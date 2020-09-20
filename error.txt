@@ -1,0 +1,50 @@
+types of error
+    1. syntax error
+        when we divert from the main code
+        eg print("acb)
+            3 +
+            def/0
+
+    2. indentation error
+    line aligned when using : in func , loop use tab in next line
+        when the code is not proper aligned
+        eg  for x in range(1,n):
+            print(x)
+
+    3. type error
+      operation must be done on same data types
+      when we take input the input is in the format of string so we have to convert it into string to avoid this error
+      eg 4+"2"
+        "as"/0
+
+
+    4. name error
+      also known as variable not defined error
+      eg x=3
+        z=a+x
+        a is not defined
+        abc/0
+
+    5. zero division error
+      when we try to divide the number by zero
+      eg 4/0
+
+    6. index error
+      to access the index not available in string or list
+      eg x="happy"
+        x[10]
+        x=[1,2,3,4,5]
+        x[6]
+
+    7. runtime error
+      error occur while running the code
+      cause is not known
+
+    8. attribute error
+      using wrong method for different datatype
+      eg x=23
+        x.upper()
+
+
+https://www.tutorialsteacher.com/python/error-types-in-python
+
